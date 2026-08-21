@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-primary: #36563C;
+  --color-brand-secondary: #62B320;
+  --color-brand-accent: #B2E901;
+  --color-brand-bg: #FFFFFF;
+  --color-brand-cornsilk: #FFFFFF;
+  --color-brand-dark: #12100F;
+}
+
+@layer base {
+  body {
+    @apply text-brand-dark bg-white font-sans antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-medium tracking-tight text-brand-primary;
+  }
+}
+
