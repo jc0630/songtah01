@@ -1,0 +1,6 @@
+{
+  "name": "Song Tah Dental Equipment",
+  "description": "崧達企業官方網站與數位牙科設備產品平台，包含 ASIGA 3D 列印機、CAD/CAM 系統與牙科材料方案。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
